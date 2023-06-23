@@ -1,0 +1,70 @@
+body {
+  background-color:Cyan
+}
+
+.posicionamento-relativo{
+     position:relative;
+     top:40px;
+     right:50px;
+}
+div{
+  width: 500px;
+  height: 500px;
+  }
+
+  .posicionamento-absolute{
+    position:absolute;
+    top:70px;
+    left:40px;
+
+}body {
+  background-color:Cyan
+}
+
+.posicionamento-relativo{
+     position:relative;
+     top:40px;
+     right:50px;
+}
+div{
+  width: 500px;
+  height: 500px;
+  }
+
+  .posicionamento-absolute{
+    position:absolute;
+    top:70px;
+    left:40px;
+
+}
+div{
+ width: 500px;
+ height: 500px;
+ }
+p:hover{
+  color:white
+}
+
+p {
+	text-align: center;
+}
+
+em strong {
+	color:purple;
+}
+
+div{
+ width: 500px;
+ height: 500px;
+ }
+p:hover{
+  color:white
+}
+
+p {
+	text-align: center;
+}
+
+em strong {
+	color:purple;
+}
